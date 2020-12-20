@@ -1,11 +1,11 @@
 # BitPY
 
-This python project was built to use bittrex for trading bitcoin and other crypcurrencies 
-from your desktop without having to sign in or even look at an exchange just buy and sell 
-directly from your python commands. Its a simple and seamless way to make extremely fast trade exectuions. 
+This python project was built to use bittrex for trading bitcoin and other crypcurrencies from your desktop without having
+to sign in or even look at an exchange just buy and sell directly from your python commands.
+It's a simple and seamless way to make extremely fast trade execution.
 
 Main File is in bittrex-desktop.py. You will need to install python bittrex to run the program.
-I have included python bittrex in the  main folder, to install it go to the file directory in the command line and type
+I have included python bittrex in the  main folder, to install it, go to the file directory in the command line and type
 
 ```
 python setup.py install
